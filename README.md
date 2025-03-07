@@ -1,7 +1,7 @@
 # 🚀 *Supply Chain Management System*  
 
 📦 *Overview:*  
-A robust Supply Chain Management System built with *Spring Boot (Java)* and *PostgreSQL* to streamline the management of *Orders, **Suppliers, **Customers, and **Product Inventory*.  
+A robust Supply Chain Management System built with *Spring Boot (Java)* and *PostgreSQL* to streamline the management of *Orders*, *Suppliers*, *Customers*, and *Product Inventory*.  
 
 
 
